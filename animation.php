@@ -1,7 +1,7 @@
 <!-- OUR LITTLE COMBINATION OF MEDIA CHOOSER AND RESOLUTION SWITCHING -->
 <picture class="logo" >
-  <!-- <source media="(max-width: 600px)" type="image/avif" srcset="assets/london480.avifs"> -->
-  <!-- <source media="(max-width: 600px)" type="image/webp" srcset="assets/london480.webp"> -->
+  <source media="(max-width: 600px)" type="image/avif" srcset="assets/london600.avifs">
+  <source media="(max-width: 600px)" type="image/webp" srcset="assets/london600.webp">
   <source media="(min-width: 601px)" type="image/avif" srcset="assets/london800b.avifs">
   <source media="(min-width: 601px)" type="image/webp" srcset="assets/london800b.webp">
   <!-- <source media="(min-width: 900px)" type="image/avif" srcset="assets/london1080.avif"> -->

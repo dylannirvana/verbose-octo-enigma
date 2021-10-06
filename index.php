@@ -176,7 +176,6 @@ Creation date: 03/17/2021
 
 						<!-- include ====================================================================================== -->
                           	<!-- source set -->
-                          	srcset
                         	<?php include("animation.php"); ?>
 
                             <!-- <picture class="logo">
