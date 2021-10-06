@@ -173,13 +173,19 @@ Creation date: 03/17/2021
                         <img src="img/congrats.png" class="img-fluid congrats" alt="Congratulations to all our winners!">
 						<img src="img/logo1.png" class="img-fluid bmi-logo">
                         <h1>
-                            <picture class="logo">
-								
+
+						<!-- include ====================================================================================== -->
+                          	<!-- source set -->
+                          	srcset
+                        	<?php include("animation.php"); ?>
+
+                            <!-- <picture class="logo">
                                	<source srcset="https://cdn.bcms.app/uploads/london21_londonlogo_800w_1ebebc9f4f.avif" type="image/avif">
-								<!--
-                                <source srcset="https://cdn.bcms.app/uploads/pop_awards_logo_dc750cbf1a.webp" type="image/webp">-->
                                 <img src="https://cdn.bcms.app/uploads/london21_londonlogo_800w_120df5a5c9.jpg" alt="BMI TV & Film Awards 2021">
-                            </picture>
+                            </picture> -->
+
+						<!-- END include ====================================================================================== -->
+
                         </h1>
                     </div>
                 </div>
