@@ -1,8 +1,8 @@
 <!-- OUR LITTLE COMBINATION OF MEDIA CHOOSER AND RESOLUTION SWITCHING -->
 <picture class="logo" >
-  <source media="(max-width: 600px)" type="image/avif" srcset="assets/london600.avif">
+  <source media="(max-width: 600px)" type="image/avif" srcset="assets/london600_tag.avif">
   <source media="(max-width: 600px)" type="image/webp" srcset="assets/london600.webp">
-  <source media="(min-width: 601px)" type="image/avif" srcset="assets/london800.avif">
+  <source media="(min-width: 601px)" type="image/avif" srcset="assets/london800_tag.avif">
   <source media="(min-width: 601px)" type="image/webp" srcset="assets/london800.webp">
   <source media="(min-width: 900px)" type="image/avif" srcset="assets/london1080_tag.avif">
   <source media="(min-width: 900px)" type="image/webp" srcset="assets/london1080.webp">
